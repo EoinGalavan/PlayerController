@@ -1,0 +1,10 @@
+{
+  "name": "ie.setu.playercontroller",
+  "version": "1.0.0",
+  "displayName": "PlayerController",
+  "description": "Added to a player object to make it duck",
+  "unity": "2021.3",
+  "author": {
+    "name": "Eoin Galavan"
+  }
+}

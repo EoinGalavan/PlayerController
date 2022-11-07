@@ -1,0 +1,4 @@
+1. Attach PlayerController.cs to the object
+2. Make sure the object has a Rigidbody2d
+3. call PlayerController.Duck(rb); to start ducking
+4. PlayerController.CancelDuck(); ends it and resets
