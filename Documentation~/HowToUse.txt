@@ -1,4 +1,13 @@
+Duck
 1. Attach PlayerController.cs to the object
 2. Make sure the object has a Rigidbody2d
-3. call PlayerController.Duck(rb); to start ducking
-4. PlayerController.CancelDuck(); ends it and resets
+3. call PlayerController.Duck(rb); to start ducking where your rigidbody is addded
+4. PlayerController.CancelDuck(); ends it and resets where your rigidbody is addded
+
+Attack
+1. Attach PlayerController.cs to the object
+2. Add a weapon object to your script, it will rotate around the origin
+3. call PlayerController.EstablishWeapon(weapon); in the start where your weapon object is 
+added
+4. call PlayerController.Attack(weapon); to trigger an attack where your weapon object is 
+added
